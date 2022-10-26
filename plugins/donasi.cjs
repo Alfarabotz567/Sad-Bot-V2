@@ -1,14 +1,14 @@
 var handler = async m => m.reply(`
 ╭─「 Donasi 」
-│ • TELKOMSEL [08211499086]
-│ • DANA [08211499086]
-│ • OVO [08211499086]
-│ • GOPAY [08211499086]
-│ • SHOPPY PAY [08211499086]
-│ • Saweria [https://saweria.co/botstyle]
+│ • TELKOMSEL [081385423329]
+│ • DANA [089531704997]
+│ • OVO [-]
+│ • GOPAY [-]
+│ • SHOPPY PAY [-]
+│ • Saweria [https://saweria.co/Irfaan567]
 ╰────
 ╭─「 Hubungi 」
-│ > Ingin donasi? Wa.me/62895368900456
+│ > Ingin Sewa bot? wa.me/6285624823115
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
