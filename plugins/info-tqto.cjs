@@ -53,8 +53,8 @@ https://github.com/Rlxfly
 *❉ Aine:*
 https://github.com/Aiinne
 *▸ - - - —「 KANG RECODE 」— - - - ◂*
-*❉ Fahri:*
-https://github.com/FahriAdison
+*❉ Irfaan Official:*
+https://github.com/Alfarabotz567
 *▸ - - - —「 SPESIAL HELPER 」— - - - ◂*
 *❉ Letta:*
 *❉ Johannes:*
@@ -64,7 +64,7 @@ https://github.com/FahriAdison
 conn.sendButtonDoc(m.chat, tqto, wm, 'Menu', '/menu', m,  { contextInfo: { externalAdReply: { showAdAttribution: true,
         mediaUrl: "https://Instagram.com/bot_whangsaf",
         mediaType: "VIDEO",
-        description: "https://Instagram.com/bot_whangsaf", 
+        description: "https://Instagram.com/irfaanabdulhafizh", 
         title: 'Simple Bot Esm',
         body: wm,
         thumbnail: thumb,
