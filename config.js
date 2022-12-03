@@ -119,8 +119,8 @@ global.log = function log() {
 }
 global.owner = [
 	//  ['6285624823115'],
-	//['6289531704997'],
-	['6289531704997', 'Alfarabotz', true],
+	//['6281646829895'],
+	['6281646829895', 'Alfarabotz', true],
 	['6285624823115', 'Irfaan Official', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
