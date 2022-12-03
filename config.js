@@ -153,7 +153,7 @@ global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '+62 822-8721-9167'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '6289531704997'
+global.nomorbot = '6281646829895'
 global.nomorown = '6285624823115'
 global.namebot = 'Alfarabotz'
 global.nameown = 'Irfaan Official'
